@@ -44,9 +44,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** Python, Java, APIs REST, ETL, engenharia de dados, integração de sistemas
+**Moderate match areas:** JavaScript/TypeScript, C#/.NET, PHP, Spring Boot, FastAPI, Node.js, React, RAG/LangChain/ML aplicado
+**Weak match areas:** Inglês avançado, liderança formal de equipe, arquitetura de sistemas em larga escala (nível sênior/staff)
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -58,9 +58,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Desenvolvimento backend (Python/Java), APIs REST, integração de sistemas, sustentação de sistemas em produção, ETL/pipelines de dados
+**Moderate:** Full stack (frontend em React/JS), engenharia de IA/ML aplicada (RAG, LangChain)
+**Entry-level:** Cargos de liderança técnica, arquitetura de sistemas distribuídos em larga escala, engenharia de ML/dados em nível sênior
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -91,19 +91,19 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Consolidar-se como desenvolvedor backend pleno em Python/Java, com foco em APIs REST e engenharia de dados
+- Migrar gradualmente para papéis que combinem backend com IA/ML aplicada (RAG, agentes, pipelines de dados)
+- Ganhar experiência em ambientes com stacks e desafios técnicos mais diversos que a sustentação de um único sistema
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
+- Tasks that energize: automação de processos manuais, diagnóstico de causa raiz em produção, construção de pipelines de dados/ETL, aplicação de IA/ML em problemas reais
+- Tasks that drain: trabalho puramente de suporte/help desk sem espaço para automação ou melhoria técnica
 - Non-task factors: leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Atualmente empregado (PUC-Campinas), busca é por evolução de carreira, não urgência financeira
+- **Flexibility**: Aberto a presencial/híbrido na região de Campinas-SP ou remoto em qualquer lugar do Brasil; faixa salarial de referência R$ 6.000 a R$ 8.000
+- **Professional development**: Prioriza empresas com cultura de aprendizado contínuo e espaço para crescer tecnicamente (ex: de backend para IA/ML aplicada)
 
 ### 6. Salary Benchmark (Optional)
 

@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Henrique Cordeiro da Silva
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Henrique Cordeiro da Silva, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,70 +10,71 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
-
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+- **Name:** Henrique Cordeiro da Silva
+- **Location:** Hortolândia, SP, Brasil (aberto a presencial/híbrido na região de Campinas, e a remoto em qualquer lugar do Brasil)
+- **Languages:** Português (nativo), Inglês (básico — leitura de documentação técnica)
+- **CV language:** Português
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Status:** Empregado (Analista de Suporte / Desenvolvedor na PUC-Campinas)
+- **LinkedIn headline:** "Full Stack Developer | Python, Java, JavaScript/TS | Spring Boot, Node.js, React | APIs REST, ETL | MySQL, PostgreSQL, MongoDB | Pós em Data Science & ML"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **Pós-graduação em Ciência de Dados e Machine Learning** (360h, jun/2025-jun/2026, concluído) - PUC-Campinas
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** (fev/2022-jun/2024, concluído) - Centro Universitário FAVIP Wyden
+- **Técnico em Informática (Ensino Médio Integrado)** (fev/2018-dez/2021, concluído) - IFSP Campus Campinas
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Analista de Suporte / Desenvolvedor** (jul/2024 - atual) - **PUC-Campinas** (Campinas, SP)
+  - Garanti disponibilidade e estabilidade do Canvas LMS para 16.500 alunos e docentes, atuando em análise de logs, diagnóstico de incidentes e monitoramento de integrações
+  - Desenvolvi automações em Python integradas à API REST do Canvas para criação de salas, sincronização de matrículas e auditoria de acessos
+  - Implementei pipelines de ETL em Python e Pandas garantindo a integridade de mais de 150.000 registros acadêmicos por ciclo letivo
+- **Desenvolvedor Full Stack (Estágio)** (mar/2022 - mar/2024) - **FUNCAMP** (Campinas, SP)
+  - Automatizei processos de negócio entre sistemas internos e o ERP NetSuite com scripts de integração em Java
+  - Construí uma API REST para armazenamento e distribuição centralizada do banco de questões da plataforma educacional Edukas
+  - Entreguei telas e funcionalidades em PHP e JavaScript atuando em time ágil de 3 a 6 pessoas
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Python, Java, APIs REST, ETL, Engenharia de Dados
+- **Secondary:** JavaScript, TypeScript, C#, SQL, PHP, Spring Boot, FastAPI, .NET, Node.js, React
+- **Domain:** Sistemas acadêmicos/LMS, integração de sistemas, IA/ML aplicada (RAG, LangChain, embeddings)
+- **Software:** Docker, Git, GitHub, CI/CD, Maven, Postman, MySQL, PostgreSQL, SQL Server, MongoDB, pgvector, Power BI, Jupyter Notebook
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- Projetos ágeis com SCRUM
+- Explore React com JavaScript
+- APIs com Node.js e Express
+- JAVA
+- Microsserviços com Spring e RabbitMQ + AWS
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- Nenhuma publicação registrada
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- Nenhum prêmio registrado
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Analítico e metódico** - investiga causa raiz, atua bem com logs, diagnóstico e dados; decisões baseadas em evidência
+- **Autônomo e proativo** - toma iniciativa para automatizar e resolver problemas sem supervisão constante
+- **Strengths:** Aprendizado contínuo e autodidatismo (evidenciado pela pós-graduação em ML e projetos pessoais de RAG/IA), resolução de problemas em produção, automação de processos manuais
+- **Growth areas:** Inglês ainda em nível básico (foco atual em leitura de documentação técnica)
+- **Thrives in:** Ambientes que combinam sustentação/produção com espaço para automação e melhoria contínua; times ágeis pequenos com autonomia técnica
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Aplicar IA/ML (RAG, LangChain, embeddings) para resolver problemas reais de produto e produção
+- Construir pipelines de dados e automações que eliminam trabalho manual repetitivo
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Tecnologia / Software: empresas com produtos backend robustos e cultura de engenharia
+- Dados e IA: empresas que aplicam ML/RAG em produção
+- Educação/Edtech: aderente à experiência atual com sistemas acadêmicos (Canvas LMS, Edukas)
 
 ### Deal-breakers
-<!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Nenhum deal-breaker forte identificado no momento; avalia oportunidades com bom fit técnico e geral
+- Preferência por modelos remoto ou híbrido/presencial na região de Campinas-SP
+
+### Salary Reference
+- Faixa base de referência: R$ 6.000 a R$ 8.000 (mensal, CLT ou PJ equivalente)
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

@@ -115,12 +115,11 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 
 **Create 2-3 profile statement templates for your main role types:**
 
-<!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Desenvolvedor Backend / Engenheiro de Dados roles:**
+> Desenvolvedor Backend com atuação em Python e Java, especializado em APIs REST, integração de sistemas e pipelines de ETL. Sustenta o Canvas LMS na PUC-Campinas (16.500 usuários, 150.000+ registros acadêmicos por ciclo letivo), com histórico de automação de processos manuais e garantia de integridade de dados em produção. Pós-graduado em Ciência de Dados e Machine Learning.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For AI/ML Engineer roles:**
+> Desenvolvedor Backend com sólida base em Python, engenharia de dados e integração de sistemas, complementada por pós-graduação em Ciência de Dados e Machine Learning. Desenvolveu agentes de RAG em produção (FastAPI, LangChain, pgvector, embeddings) com cobertura de testes automatizados, aplicando IA de forma prática a problemas reais de negócio.
 
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 

@@ -1,8 +1,7 @@
-%% Example CV - [YOUR_NAME]
+%% Example CV - Henrique Cordeiro da Silva
 %% Comprehensive overview of all competencies, experience, and achievements.
 %% Use as a master reference when tailoring role-specific CVs.
 %%
-%% SETUP: Run /setup to populate this with your actual information.
 %% Compile with: lualatex main_example.tex
 %% (pdflatex often fails on modern MiKTeX with fontawesome5 font-expansion errors.)
 
@@ -24,18 +23,19 @@
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=blue,
-    pdftitle={[YOUR_NAME] - CV},
+    pdftitle={Henrique Cordeiro da Silva - CV},
     pdfpagemode=FullScreen,
 }
 \usepackage[scale=0.80]{geometry}
 \usepackage{import}
+\usepackage{needspace}
 
 % personal data
-\name{[First]}{[Last]}
-\address{[Your Address, City, Country]}{}{}
-\phone[mobile]{[+XX XXXXXXXXXX]}
-\email{[your.email@example.com]}
-\extrainfo{\href{[https://linkedin.com/in/your-profile]}{LinkedIn}, \href{[https://github.com/your-username]}{GitHub}}
+\name{Henrique}{Cordeiro da Silva}
+\address{Hortolândia, SP, Brasil}{}{}
+\phone[mobile]{+55 19 99545-4391}
+\email{henriquecordeiro054@gmail.com}
+\extrainfo{\href{https://linkedin.com/in/henriqucordeiro}{LinkedIn}, \href{https://github.com/HenriqueCDS}{GitHub}, \href{https://portifolio-henriqueocordeiro.vercel.app}{Portfólio}}
 
 \begin{document}
 
@@ -46,25 +46,25 @@
 % ============================================================
 
 \vspace{6pt}
-\small{[Write a 3-5 line profile statement tailored to the role you're applying for. Focus on what makes you uniquely qualified. Example: "Data scientist with a PhD in [field] and X years of industry experience. Combines deep domain expertise in [domain] with strong applied machine learning and Python development skills. Experienced in developing end-to-end ML pipelines, from data ingestion to stakeholder-facing dashboards."]}
+\small{Desenvolvedor Backend com atuação em Python e Java, especializado em APIs REST, integração de sistemas e pipelines de ETL. Sustento o Canvas LMS na PUC-Campinas (16.500 usuários, 150.000+ registros acadêmicos por ciclo letivo) e sou pós-graduado em Ciência de Dados e Machine Learning, com experiência prática construindo agentes de IA (RAG) em produção.}
 
 % ============================================================
 %     CORE COMPETENCIES
 % ============================================================
 
-\section{Core Competencies}
+\section{Competências Principais}
 \vspace{1pt}
 \begin{itemize}
 
-\item \textbf{[Skill Category 1]}: [Specific skills, frameworks, tools. Be concrete.]
+\item \textbf{Backend e APIs}: Python, Java, APIs REST, Spring Boot, FastAPI, .NET, Node.js, microsserviços, integração de sistemas, mensageria (RabbitMQ)
 
-\item \textbf{[Skill Category 2]}: [Specific skills, frameworks, tools.]
+\item \textbf{Dados e ETL}: Pandas, NumPy, modelagem de dados, SQL avançado, MySQL, PostgreSQL, SQL Server, MongoDB, pgvector
 
-\item \textbf{[Skill Category 3]}: [Specific skills, frameworks, tools.]
+\item \textbf{IA e Machine Learning}: LangChain, RAG (Retrieval-Augmented Generation), embeddings, API Gemini, Scikit-learn, redes neurais
 
-\item \textbf{[Skill Category 4]}: [Domain expertise, methods, approaches.]
+\item \textbf{DevOps e Ferramentas}: Git, GitHub, Docker, Linux, CI/CD, Maven, Postman
 
-\item \textbf{[Skill Category 5]}: [Tools, platforms, software.]
+\item \textbf{Frontend}: React, JavaScript, TypeScript, HTML, CSS
 
 \end{itemize}
 
@@ -72,36 +72,30 @@
 %     PROFESSIONAL EXPERIENCE
 % ============================================================
 
-\section{Professional Experience}
+\section{Experiência Profissional}
 \vspace{3pt}
 \begin{itemize}
 
 % --- Most Recent Role ---
-\item{\cventry{[YYYY--Present]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\needspace{5\baselineskip}
+\item{\cventry{jul/2024--atual}{Analista de Suporte / Desenvolvedor}{PUC-Campinas}{Campinas, SP}{}{\vspace{1pt}
 \begin{itemize}
-    \item [Achievement or responsibility 1 - be specific, use numbers where possible]
-    \item [Achievement or responsibility 2]
-    \item [Achievement or responsibility 3]
-    \item [Achievement or responsibility 4]
+    \item Garanto a disponibilidade e a estabilidade do Canvas LMS para 16.500 alunos e docentes, atuando na análise de logs, diagnóstico de incidentes em produção e monitoramento de integrações
+    \item Desenvolvo automações em Python integradas à API REST do Canvas para criação de salas, sincronização de matrículas e auditoria de acessos
+    \item Asseguro a integridade de mais de 150.000 registros acadêmicos por ciclo letivo, implementando pipelines de ETL em Python e Pandas
+    \item Elimino o retrabalho de conferência manual de matrículas com rotinas automatizadas em Jupyter Notebook
+    \item Mantenho e evoluo uma aplicação .NET em produção, corrigindo falhas e implementando melhorias solicitadas pelo negócio
 \end{itemize}}}
 
 \vspace{3pt}
 
 % --- Previous Role ---
-\item{\cventry{[YYYY--YYYY]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\needspace{5\baselineskip}
+\item{\cventry{mar/2022--mar/2024}{Desenvolvedor Full Stack (Estágio)}{FUNCAMP}{Campinas, SP}{}{\vspace{1pt}
 \begin{itemize}
-    \item [Achievement or responsibility 1]
-    \item [Achievement or responsibility 2]
-    \item [Achievement or responsibility 3]
-\end{itemize}}}
-
-\vspace{3pt}
-
-% --- Earlier Role ---
-\item{\cventry{[YYYY--YYYY]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
-\begin{itemize}
-    \item [Achievement or responsibility 1]
-    \item [Achievement or responsibility 2]
+    \item Automatizei processos de negócio entre sistemas internos e o ERP NetSuite com scripts de integração em Java
+    \item Construí uma API REST para armazenamento e distribuição centralizada do banco de questões da plataforma Edukas
+    \item Entreguei telas e funcionalidades em PHP e JavaScript, atuando em time ágil de 3 a 6 pessoas
 \end{itemize}}}
 
 \end{itemize}
@@ -110,18 +104,27 @@
 %     EDUCATION
 % ============================================================
 
-\section{Education}
+\section{Formação Acadêmica}
 \vspace{1pt}
 \begin{itemize}
 
-\item{\cventry{[YYYY--YYYY]}{[Degree] in [Field]}{[Institution]}{[City, Country]}{}{\vspace{1pt}
-Thesis: ``[Thesis Title].'' [Brief description of research focus.]
+\needspace{4\baselineskip}
+\item{\cventry{jun/2025--jun/2026}{Pós-graduação em Ciência de Dados e Machine Learning}{PUC-Campinas}{Campinas, SP}{}{\vspace{1pt}
+Concluído.
 }}
 
 \vspace{3pt}
 
-\item{\cventry{[YYYY--YYYY]}{[Degree] in [Field]}{[Institution]}{[City, Country]}{}{\vspace{1pt}
-[Brief description or key topics.]
+\needspace{4\baselineskip}
+\item{\cventry{fev/2022--jun/2024}{Tecnólogo em Análise e Desenvolvimento de Sistemas}{Centro Universitário FAVIP Wyden}{Campinas, SP}{}{\vspace{1pt}
+Concluído.
+}}
+
+\vspace{3pt}
+
+\needspace{4\baselineskip}
+\item{\cventry{fev/2018--dez/2021}{Técnico em Informática (Ensino Médio Integrado)}{IFSP Campus Campinas}{Campinas, SP}{}{\vspace{1pt}
+Concluído.
 }}
 
 \end{itemize}
@@ -130,40 +133,32 @@ Thesis: ``[Thesis Title].'' [Brief description of research focus.]
 %     LANGUAGES
 % ============================================================
 
-\section{Languages}
+\section{Idiomas}
 \vspace{1pt}
 \begin{itemize}
-\item [Language 1] (native), [Language 2] (fluent), [Language 3] (intermediate).
+\item Português (nativo), Inglês (básico -- leitura de documentação técnica).
 \end{itemize}
 
 % ============================================================
-%     PUBLICATIONS (optional)
+%     PROJECTS
 % ============================================================
 
-\section{Publications}
+\section{Projetos}
 \vspace{1pt}
 \begin{itemize}
-\item [Author(s)] ([Year]). [Title]. [Journal/Conference]. \href{[DOI_URL]}{DOI link}
-\end{itemize}
-
-% ============================================================
-%     HONORS AND AWARDS (optional)
-% ============================================================
-
-\section{Honors and Awards}
-\vspace{1pt}
-\begin{itemize}
-\item{\textbf{[Award Name]} -- [Event/Organization] ([Year]).}
+\item \textbf{ia-agent-puc-digital} -- agente de RAG em Python (FastAPI, LangChain) para suporte acadêmico, com embeddings locais, busca por similaridade em pgvector, integração com a API Gemini e 25 testes automatizados (pytest); containerizado com Docker. \href{https://github.com/HenriqueCDS}{github.com/HenriqueCDS}
+\item \textbf{proposta-app-mensageria} -- sistema de análise de crédito em microsserviços com Java, Spring Boot, RabbitMQ, PostgreSQL, AWS SNS e Docker.
+\item \textbf{Rest\_Api\_Questoes} -- API REST em Node.js, Express e Sequelize, com testes em Jest e persistência em MySQL.
 \end{itemize}
 
 % ============================================================
 %     REFERENCES
 % ============================================================
 
-\section{References}
+\section{Referências}
 \vspace{1pt}
 \begin{itemize}
-\item{Available upon request.}
+\item{Disponíveis mediante solicitação.}
 \end{itemize}
 
 \end{document}

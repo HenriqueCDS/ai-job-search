@@ -14,30 +14,33 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 ## Ready-Made STAR Examples
 
-<!-- These are populated by /setup from your actual experience. Below are templates showing the format. -->
+### 1. Automação da sincronização de matrículas no Canvas LMS (Automação/Python)
+**S:** A equipe gastava tempo significativo conferindo manualmente matrículas e sincronizações entre o Canvas LMS e as bases institucionais.
+**T:** Reduzir o esforço manual da equipe sem comprometer a integridade dos dados acadêmicos.
+**A:** Desenvolvi automações em Python integradas à API REST do Canvas para criação de salas, sincronização de matrículas e auditoria de acessos, além de rotinas em Jupyter Notebook que comparam dados do Canvas com bases institucionais em CSV.
+**R:** Eliminou o retrabalho de conferência manual e reduziu o tempo das rotinas operacionais da equipe.
+**Use for:** "Fale sobre uma vez que você automatizou um processo", "Como você lida com trabalho repetitivo?"
 
-### 1. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT - what was happening, what was the problem]
-**T:** [YOUR RESPONSIBILITY - what you specifically needed to do]
-**A:** [WHAT YOU DID - specific actions, tools, methods]
-**R:** [OUTCOME - measurable results, adoption, impact]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 2. Pipeline de ETL para integridade de dados acadêmicos (ETL/Confiabilidade)
+**S:** O Canvas LMS processa mais de 150.000 registros acadêmicos por ciclo letivo, com risco de inconsistências entre sistemas.
+**T:** Garantir a integridade desses registros ao longo do ciclo letivo.
+**A:** Implementei pipelines de ETL em Python e Pandas com regras de validação, tratamento de inconsistências e conciliação entre bases.
+**R:** Assegurou a integridade de mais de 150.000 registros acadêmicos por ciclo letivo, sustentando o Canvas LMS para 16.500 alunos e docentes.
+**Use for:** "Descreva um projeto de dados que você liderou", "Como você garante qualidade de dados?"
 
-### 2. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 3. Agente de RAG para suporte acadêmico (ia-agent-puc-digital) (IA aplicada/Projeto pessoal)
+**S:** Interesse pessoal em aplicar IA generativa a um problema real de suporte acadêmico, fora do escopo do cargo formal.
+**T:** Construir um agente de RAG funcional, com qualidade de produção (testes, containerização).
+**A:** Desenvolvi um agente em Python (FastAPI, LangChain) com ingestão idempotente de PDFs, embeddings locais, busca por similaridade em pgvector, cache de respostas em Postgres, integração com a API Gemini e cobertura de 25 testes automatizados (pytest); ambiente containerizado com Docker.
+**R:** Projeto funcional publicado no GitHub, demonstrando aplicação prática de RAG/LangChain além do escopo do trabalho diário.
+**Use for:** "Fale sobre um projeto de IA que você construiu", "Como você aprende novas tecnologias por conta própria?"
 
-### 3. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
-
-<!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
+### 4. Migração de lançamentos manuais para integração automatizada com NetSuite (Integração de sistemas/Java)
+**S:** Na FUNCAMP, processos de negócio dependiam de lançamentos manuais recorrentes entre sistemas internos e o ERP NetSuite.
+**T:** Eliminar esse trabalho manual através de integração automatizada.
+**A:** Desenvolvi scripts de integração em Java que substituíram os lançamentos manuais recorrentes.
+**R:** Reduziu o esforço manual da equipe e o risco de erro humano nos lançamentos.
+**Use for:** "Descreva uma integração de sistemas que você construiu", "Como você lida com sistemas legados?"
 
 ## Common Tough Questions
 

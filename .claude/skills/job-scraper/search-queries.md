@@ -11,10 +11,9 @@ The `site:` query templates in this file are the **WebSearch fallback** — for 
 ## Search Sites
 
 Primary (your market's job boards - scaffold one with `/add-portal`):
-- **[YOUR_JOB_BOARD]** - your market's largest general job board
-- **linkedin.com/jobs** - LinkedIn job listings (filter: [YOUR_COUNTRY] / [YOUR_CITY]); also covered by `linkedin-search` CLI
-- **[YOUR_INDUSTRY_JOB_BOARD]** - a niche/industry board for your field (optional)
-- **[YOUR_ADDITIONAL_JOB_BOARD]** - another major board for your market (optional)
+- **linkedin.com/jobs** - LinkedIn job listings (filter: Brasil / Campinas-SP); also covered by `linkedin-search` CLI
+- **Gupy, Catho, InfoJobs** - major Brazilian job boards (candidate for `/add-portal` scaffolding)
+- **freehire-search** - shipped country-agnostic CLI, useful fallback for direct company career pages
 
 Secondary (company career pages via Google):
 - Direct Google searches with `site:` filters for known target companies
@@ -23,53 +22,54 @@ Secondary (company career pages via Google):
 
 Queries are grouped by priority. Each query should be combined with your location terms (e.g. your city, region, or metro area) where the site supports it.
 
-### Priority 1: [YOUR_PRIMARY_ROLE_TYPE]
+### Priority 1: Desenvolvedor Backend (Python/Java)
 
 These match your strongest and most desired career direction.
 
 ```
-site:[YOUR_JOB_BOARD] "[YOUR_PRIMARY_JOB_TITLE]" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_KEY_SKILL]" [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_PRIMARY_JOB_TITLE]" [YOUR_COUNTRY]
+site:linkedin.com/jobs "Desenvolvedor Backend" Python Brasil
+site:linkedin.com/jobs "Backend Developer" Java Brasil
+"desenvolvedor backend" python OR java Campinas OR remoto
 ```
 
-### Priority 2: [YOUR_DOMAIN_EXPERTISE]
+### Priority 2: Engenheiro de Dados / ETL
 
 These match your domain expertise.
 
 ```
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] OR [YOUR_REGION]
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_2] [YOUR_COUNTRY]
-site:linkedin.com/jobs [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] [YOUR_COUNTRY]
+site:linkedin.com/jobs "engenheiro de dados" ETL Brasil
+site:linkedin.com/jobs "data engineer" python Brasil
+"engenheiro de dados" OR "analista de dados" ETL Campinas OR remoto
 ```
 
-### Priority 3: [YOUR_ADJACENT_ROLE_TYPE]
+### Priority 3: AI/ML Engineer (RAG, LangChain)
 
-Adjacent roles you could pivot into.
-
-```
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_1]" [YOUR_KEY_SKILL] [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_2]" [YOUR_KEY_SKILL] [YOUR_CITY]
-```
-
-### Priority 4: Broader Technical / Consulting
-
-Wider net for general technical roles.
+Adjacent roles you could pivot into, leveraging personal RAG project experience.
 
 ```
-site:[YOUR_JOB_BOARD] [YOUR_KEY_SKILL] developer [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_KEY_SKILL] developer" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "technical consultant" [YOUR_DOMAIN] [YOUR_CITY]
+site:linkedin.com/jobs "AI Engineer" OR "engenheiro de IA" LangChain Brasil
+site:linkedin.com/jobs "machine learning engineer" python Brasil
+"IA generativa" OR RAG OR LangChain desenvolvedor Brasil
+```
+
+### Priority 4: Full Stack
+
+Wider net leveraging frontend experience (React/JS/PHP) alongside backend.
+
+```
+site:linkedin.com/jobs "desenvolvedor full stack" python OR java Brasil
+site:linkedin.com/jobs "full stack developer" react Brasil
+"desenvolvedor full stack" Campinas OR remoto
 ```
 
 ## Location Filter
 
 When evaluating results, verify the job location is within reasonable commute distance from your home. Define acceptable areas:
-- [YOUR_CITY] and surrounding areas
-- [ACCEPTABLE_AREA_1]
-- [ACCEPTABLE_AREA_2]
-- [BORDERLINE_AREA] (borderline - ~X min by transit)
-- [TOO_FAR_AREA] (too far)
+- Hortolândia, SP and surrounding areas
+- Campinas, SP (presencial/híbrido)
+- Região Metropolitana de Campinas (Sumaré, Valinhos, Indaiatuba, Americana)
+- Remoto (qualquer lugar do Brasil) - sempre aceitável
+- Vagas presenciais fora da região de Campinas (muito longe, salvo exceção justificada)
 
 ## Date Filter
 

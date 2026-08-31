@@ -21,7 +21,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ### Education
 - **Pós-graduação em Ciência de Dados e Machine Learning** (360h, jun/2025-jun/2026, concluído) - PUC-Campinas
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** (fev/2022-jun/2024, concluído) - Centro Universitário FAVIP Wyden
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** (mar/2021-jun/2024, concluído) - Centro Universitário FAVIP Wyden
 - **Técnico em Informática (Ensino Médio Integrado)** (fev/2018-dez/2021, concluído) - IFSP Campus Campinas
 
 ### Professional Experience
@@ -29,7 +29,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
   - Garanti disponibilidade e estabilidade do Canvas LMS para 16.500 alunos e docentes, atuando em análise de logs, diagnóstico de incidentes e monitoramento de integrações
   - Desenvolvi automações em Python integradas à API REST do Canvas para criação de salas, sincronização de matrículas e auditoria de acessos
   - Implementei pipelines de ETL em Python e Pandas garantindo a integridade de mais de 150.000 registros acadêmicos por ciclo letivo
-- **Desenvolvedor Full Stack (Estágio)** (mar/2022 - mar/2024) - **FUNCAMP** (Campinas, SP)
+- **Desenvolvedor Full Stack (Estágio)** (mar/2022 - jul/2024) - **FUNCAMP** (Campinas, SP)
   - Automatizei processos de negócio entre sistemas internos e o ERP NetSuite com scripts de integração em Java
   - Construí uma API REST para armazenamento e distribuição centralizada do banco de questões da plataforma educacional Edukas
   - Entreguei telas e funcionalidades em PHP e JavaScript atuando em time ágil de 3 a 6 pessoas

@@ -21,7 +21,7 @@ framework_version: 1.0.0
 | Degree | Period | Institution | Key Topics |
 |--------|--------|-------------|------------|
 | Pós-graduação em Ciência de Dados e Machine Learning (360h) | jun/2025-jun/2026 (concluído) | PUC-Campinas | Machine Learning, ciência de dados |
-| Tecnólogo em Análise e Desenvolvimento de Sistemas | fev/2022-jun/2024 (concluído) | Centro Universitário FAVIP Wyden | Desenvolvimento de sistemas |
+| Tecnólogo em Análise e Desenvolvimento de Sistemas | mar/2021-jun/2024 (concluído) | Centro Universitário FAVIP Wyden | Desenvolvimento de sistemas |
 | Técnico em Informática (Ensino Médio Integrado) | fev/2018-dez/2021 (concluído) | IFSP Campus Campinas | Informática |
 
 ## Professional Experience
@@ -35,7 +35,7 @@ Campinas, SP
 - Reduzi o volume de chamados recorrentes ao documentar processos e traduzir o guia oficial do Canvas para o português
 - Mantive e evoluí uma aplicação .NET em produção, corrigindo falhas reportadas e implementando melhorias solicitadas pelas áreas de negócio
 
-### Desenvolvedor Full Stack (Estágio) - FUNCAMP (mar/2022 - mar/2024)
+### Desenvolvedor Full Stack (Estágio) - FUNCAMP (mar/2022 - jul/2024)
 Campinas, SP
 - Automatizei processos de negócio entre sistemas internos e o ERP NetSuite, desenvolvendo scripts de integração em Java que substituíram lançamentos manuais recorrentes
 - Viabilizei o consumo centralizado do banco de questões da plataforma educacional Edukas, construindo uma API REST responsável pelo armazenamento e distribuição dos dados

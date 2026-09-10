@@ -75,9 +75,9 @@ Does the role and company culture match the behavioral profile?
 **Red flags to research:** Department disorganization, work dominated by maintenance over development, poor chemistry with leadership, culture mismatches. Check reviews, media coverage, LinkedIn connections, and network contacts for insider perspective.
 
 ### 4. Location & Logistics (Pass/Fail + Notes)
-- Within commute range: PASS
-- Remote with occasional office: PASS
-- Requires relocation: FAIL (deal-breaker)
+- Remoto (qualquer lugar do Brasil, qualquer distância): PASS
+- Presencial/híbrido na região de Campinas-SP ou Região Metropolitana de São Paulo: PASS
+- Presencial fora do estado de SP / requer mudança: FAIL (deal-breaker)
 - Frequent international travel: FLAG (discuss with user)
 
 ### 5. Career Alignment & Motivation (0-100)
@@ -102,7 +102,7 @@ Does this role advance career goals and contain tasks that energize?
 
 **Life situation alignment:** Consider personal constraints:
 - **Security**: Atualmente empregado (PUC-Campinas), busca é por evolução de carreira, não urgência financeira
-- **Flexibility**: Aberto a presencial/híbrido na região de Campinas-SP ou remoto em qualquer lugar do Brasil; faixa salarial de referência R$ 6.000 a R$ 8.000
+- **Flexibility**: Aberto a presencial/híbrido na região de Campinas-SP e na Região Metropolitana de São Paulo, ou remoto em qualquer lugar do Brasil (qualquer distância); faixa salarial de referência R$ 6.000 a R$ 8.000
 - **Professional development**: Prioriza empresas com cultura de aprendizado contínuo e espaço para crescer tecnicamente (ex: de backend para IA/ML aplicada)
 
 ### 6. Salary Benchmark (Optional)

@@ -12,8 +12,8 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ### Identity
 - **Name:** Henrique Cordeiro da Silva
-- **Location:** Hortolândia, SP, Brasil (aberto a presencial/híbrido na região de Campinas, e a remoto em qualquer lugar do Brasil)
-- **Languages:** Português (nativo), Inglês (básico — leitura de documentação técnica)
+- **Location:** Hortolândia, SP, Brasil (aberto a presencial/híbrido na região de Campinas e na Região Metropolitana de São Paulo, e a remoto em qualquer lugar do Brasil, qualquer distância)
+- **Languages:** Português (nativo), Inglês (básico A2 — leitura de documentação técnica)
 - **CV language:** Português
 
 - **Status:** Empregado (Analista de Suporte / Desenvolvedor na PUC-Campinas)
@@ -21,22 +21,23 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ### Education
 - **Pós-graduação em Ciência de Dados e Machine Learning** (360h, jun/2025-jun/2026, concluído) - PUC-Campinas
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** (mar/2021-jun/2024, concluído) - Centro Universitário FAVIP Wyden
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** (fev/2022-jun/2024, concluído) - Centro Universitário UniMetrocamp Wyden
 - **Técnico em Informática (Ensino Médio Integrado)** (fev/2018-dez/2021, concluído) - IFSP Campus Campinas
 
 ### Professional Experience
 - **Analista de Suporte / Desenvolvedor** (jul/2024 - atual) - **PUC-Campinas** (Campinas, SP)
   - Garanti disponibilidade e estabilidade do Canvas LMS para 16.500 alunos e docentes, atuando em análise de logs, diagnóstico de incidentes e monitoramento de integrações
-  - Desenvolvi automações em Python integradas à API REST do Canvas para criação de salas, sincronização de matrículas e auditoria de acessos
+  - Desenvolvi automações em Python integradas à API REST do Canvas para criação de salas, sincronização de matrículas e auditoria de acessos, reduzindo em 60% o tempo de rotinas operacionais manuais
+  - Mantive e evoluí uma aplicação .NET em produção, corrigindo falhas e implementando melhorias solicitadas pelas áreas de negócio
   - Implementei pipelines de ETL em Python e Pandas garantindo a integridade de mais de 150.000 registros acadêmicos por ciclo letivo
-- **Desenvolvedor Full Stack (Estágio)** (mar/2022 - jul/2024) - **FUNCAMP** (Campinas, SP)
+- **Estagiário em Desenvolvimento de Software** (mar/2022 - mar/2024) - **FUNCAMP** (Campinas, SP)
   - Automatizei processos de negócio entre sistemas internos e o ERP NetSuite com scripts de integração em Java
   - Construí uma API REST para armazenamento e distribuição centralizada do banco de questões da plataforma educacional Edukas
-  - Entreguei telas e funcionalidades em PHP e JavaScript atuando em time ágil de 3 a 6 pessoas
+  - Customizei módulos e fluxos da plataforma open source SIGA DOC para adequar o sistema de gestão documental da Prefeitura de São José do Rio Preto às regras do órgão
 
 ### Technical Skills
 - **Primary:** Python, Java, APIs REST, ETL, Engenharia de Dados
-- **Secondary:** JavaScript, TypeScript, C#, SQL, PHP, Spring Boot, FastAPI, .NET, Node.js, React
+- **Secondary:** JavaScript, TypeScript, C#, SQL, PHP, Spring Boot, FastAPI, .NET, Node.js, React, microsserviços, arquitetura orientada a eventos, RabbitMQ, JWT, AWS S3
 - **Domain:** Sistemas acadêmicos/LMS, integração de sistemas, IA/ML aplicada (RAG, LangChain, embeddings)
 - **Software:** Docker, Git, GitHub, CI/CD, Maven, Postman, MySQL, PostgreSQL, SQL Server, MongoDB, pgvector, Power BI, Jupyter Notebook
 
@@ -71,7 +72,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ### Deal-breakers
 - Nenhum deal-breaker forte identificado no momento; avalia oportunidades com bom fit técnico e geral
-- Preferência por modelos remoto ou híbrido/presencial na região de Campinas-SP
+- Preferência por modelos remoto (qualquer lugar do Brasil) ou híbrido/presencial na região de Campinas-SP e na Região Metropolitana de São Paulo
 
 ### Salary Reference
 - Faixa base de referência: R$ 6.000 a R$ 8.000 (mensal, CLT ou PJ equivalente)

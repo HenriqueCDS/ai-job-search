@@ -1,5 +1,185 @@
 {
  "seen": {
+  "https://br.linkedin.com/jobs/view/desenvolvedor-python-pleno-at-blackbird-co-4465800711": {
+   "title": "Desenvolvedor Python - Pleno",
+   "company": "Blackbird Co.",
+   "url": "https://br.linkedin.com/jobs/view/desenvolvedor-python-pleno-at-blackbird-co-4465800711",
+   "first_seen": "2026-09-10",
+   "fit": "high",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/engenheiro-de-software-pleno-backend-java-at-elo-4464686325": {
+   "title": "Engenheiro de Software Pleno | Backend Java",
+   "company": "Elo",
+   "url": "https://br.linkedin.com/jobs/view/engenheiro-de-software-pleno-backend-java-at-elo-4464686325",
+   "first_seen": "2026-09-10",
+   "fit": "high",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/analista-de-desenvolvimento-de-software-pleno-java-backend-at-elo-4462189173": {
+   "title": "Analista de Desenvolvimento de Software Pleno (Java Backend)",
+   "company": "Elo",
+   "url": "https://br.linkedin.com/jobs/view/analista-de-desenvolvimento-de-software-pleno-java-backend-at-elo-4462189173",
+   "first_seen": "2026-09-10",
+   "fit": "high",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/engenheiro-de-software-pl-java-at-pagbank-4455896343": {
+   "title": "Engenheiro de Software Pl. (Java)",
+   "company": "PagBank",
+   "url": "https://br.linkedin.com/jobs/view/engenheiro-de-software-pl-java-at-pagbank-4455896343",
+   "first_seen": "2026-09-10",
+   "fit": "high",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/engenheiro-de-software-java-ia-pleno-foco-em-agentes-de-ia-at-banco-bv-4454083229": {
+   "title": "Engenheiro de Software Java & IA Pleno (Foco em Agentes de IA)",
+   "company": "banco BV",
+   "url": "https://br.linkedin.com/jobs/view/engenheiro-de-software-java-ia-pleno-foco-em-agentes-de-ia-at-banco-bv-4454083229",
+   "first_seen": "2026-09-10",
+   "fit": "high",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/intermediate-backend-java-developer-at-bees-brasil-4460999036": {
+   "title": "Intermediate Backend Java Developer (posted across 4 reqs, Campinas)",
+   "company": "BEES Brasil",
+   "url": "https://br.linkedin.com/jobs/view/intermediate-backend-java-developer-at-bees-brasil-4460999036",
+   "first_seen": "2026-09-10",
+   "fit": "high",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "freehire:semi-senior-python-backend-engineer-workana-wdq5kai2": {
+   "title": "Semi Senior Python Backend Engineer",
+   "company": "Workana",
+   "url": "https://freehire.me/jobs/semi-senior-python-backend-engineer-workana-wdq5kai2",
+   "first_seen": "2026-09-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "freehire:desenvolvedor-backend-python-pleno-mbc-pojgosjo": {
+   "title": "Desenvolvedor backend python pleno",
+   "company": "MBC",
+   "url": "https://freehire.me/jobs/desenvolvedor-backend-python-pleno-mbc-pojgosjo",
+   "first_seen": "2026-09-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.linkedin.com/jobs/view/engenheiro-de-software-at-ibope-4437051536": {
+   "title": "Engenheiro de Software",
+   "company": "Ibope",
+   "url": "https://br.linkedin.com/jobs/view/engenheiro-de-software-at-ibope-4437051536",
+   "first_seen": "2026-09-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/engenheiro-de-software-at-cubbo-4462870975": {
+   "title": "Engenheiro de software",
+   "company": "Cubbo",
+   "url": "https://br.linkedin.com/jobs/view/engenheiro-de-software-at-cubbo-4462870975",
+   "first_seen": "2026-09-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/desenvolvedor-desenvolvedora-java-pleno-at-capgemini-4464906458": {
+   "title": "Desenvolvedor/Desenvolvedora Java Pleno",
+   "company": "Capgemini",
+   "url": "https://br.linkedin.com/jobs/view/desenvolvedor-desenvolvedora-java-pleno-at-capgemini-4464906458",
+   "first_seen": "2026-09-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/engenheiro-de-ia-generativa%E2%80%8B-pleno-at-banco-bv-4462849686": {
+   "title": "Engenheiro de IA Generativa Pleno",
+   "company": "banco BV",
+   "url": "https://br.linkedin.com/jobs/view/engenheiro-de-ia-generativa%E2%80%8B-pleno-at-banco-bv-4462849686",
+   "first_seen": "2026-09-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/tech-especialista-ii-em-engenharia-de-software-backend-at-totvs-4459971976": {
+   "title": "[Tech] Especialista II em Engenharia de Software | Backend",
+   "company": "TOTVS",
+   "url": "https://br.linkedin.com/jobs/view/tech-especialista-ii-em-engenharia-de-software-backend-at-totvs-4459971976",
+   "first_seen": "2026-09-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/python-developer-multiple-positions-open-at-botcity-4459447946": {
+   "title": "Python Developer (Multiple positions open)",
+   "company": "BotCity",
+   "url": "https://br.linkedin.com/jobs/view/python-developer-multiple-positions-open-at-botcity-4459447946",
+   "first_seen": "2026-09-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/desenvolvedor-a-python-at-ipm-sistemas-4459444933": {
+   "title": "Desenvolvedor(a) Python",
+   "company": "IPM Sistemas",
+   "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-python-at-ipm-sistemas-4459444933",
+   "first_seen": "2026-09-10",
+   "fit": "low",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/engenheiro-de-backend-at-jobbol-4461534502": {
+   "title": "Engenheiro de Backend",
+   "company": "Jobbol",
+   "url": "https://br.linkedin.com/jobs/view/engenheiro-de-backend-at-jobbol-4461534502",
+   "first_seen": "2026-09-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/analista-de-sistemas-at-confidencial-4465000400": {
+   "title": "Analista de Sistemas",
+   "company": "Confidencial (Novo Laboratorio)",
+   "url": "https://br.linkedin.com/jobs/view/analista-de-sistemas-at-confidencial-4465000400",
+   "first_seen": "2026-09-10",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/fullstack-python-%2B-react-engineer-remote-work-at-bairesdev-4462971234": {
+   "title": "Fullstack Python + React Engineer - Remote Work",
+   "company": "BairesDev",
+   "url": "https://br.linkedin.com/jobs/view/fullstack-python-%2B-react-engineer-remote-work-at-bairesdev-4462971234",
+   "first_seen": "2026-09-10",
+   "fit": "low",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/java-developer-campinas-brazil-hybrid-at-ci-t-4455933888": {
+   "title": "Java Developer, Campinas, Brazil (Hybrid)",
+   "company": "CI&T",
+   "url": "https://br.linkedin.com/jobs/view/java-developer-campinas-brazil-hybrid-at-ci-t-4455933888",
+   "first_seen": "2026-09-10",
+   "fit": "low",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://br.linkedin.com/jobs/view/desenvolvedor-a-j%C3%BAnior-%E2%80%93-rpa-e-python-at-tools-digital-services-4465355640": {
+   "title": "Desenvolvedor(a) Júnior – RPA e Python",
+   "company": "TOOLS Digital Services",
+   "url": "https://br.linkedin.com/jobs/view/desenvolvedor-a-j%C3%BAnior-%E2%80%93-rpa-e-python-at-tools-digital-services-4465355640",
+   "first_seen": "2026-09-10",
+   "fit": "low",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
   "https://br.linkedin.com/jobs/view/desenvolvedor-backend-python-pleno-at-byx-4457146516": {
    "title": "Desenvolvedor Backend Python Pleno",
    "company": "byx",

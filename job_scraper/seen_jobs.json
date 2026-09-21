@@ -2936,6 +2936,816 @@
    "status": "skipped",
    "portal": "freehire-search",
    "first_seen": "2026-09-15"
+  },
+  "https://www.linkedin.com/jobs/view/4464908382": {
+   "title": "Java Backend Engineer (AWS) - Remote Work",
+   "company": "BairesDev",
+   "url": "https://www.linkedin.com/jobs/view/4464908382",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4464693756": {
+   "title": "Backend Engineer (.NET) - Remote Work",
+   "company": "BairesDev",
+   "url": "https://www.linkedin.com/jobs/view/4464693756",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4468208144": {
+   "title": "Middle/Senior Java Developer",
+   "company": "Devexperts",
+   "url": "https://www.linkedin.com/jobs/view/4468208144",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4463577518": {
+   "title": "Desenvolvedor(a) Back-end Sênior – PHP/Laravel",
+   "company": "IEBT Innovation",
+   "url": "https://www.linkedin.com/jobs/view/4463577518",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4466937519": {
+   "title": "Desenvolvedor(a) de Software Backend SR",
+   "company": "Leo Madeiras",
+   "url": "https://www.linkedin.com/jobs/view/4466937519",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4466998359": {
+   "title": "Desenvolvedor Back End Sênior",
+   "company": "ProcessMind",
+   "url": "https://www.linkedin.com/jobs/view/4466998359",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4466929864": {
+   "title": "Desenvolvedor(a) de Software Backend PL",
+   "company": "Leo Madeiras",
+   "url": "https://www.linkedin.com/jobs/view/4466929864",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4467761332": {
+   "title": "Desenvolvedor Backend",
+   "company": "Jobbol",
+   "url": "https://www.linkedin.com/jobs/view/4467761332",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4466534226": {
+   "title": "Desenvolvedor de back end C#",
+   "company": "mazzatech",
+   "url": "https://www.linkedin.com/jobs/view/4466534226",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4468225368": {
+   "title": "Software Developer Senior",
+   "company": "Inter",
+   "url": "https://www.linkedin.com/jobs/view/4468225368",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4467817652": {
+   "title": "Banco de Talentos: Desenvolvedor(a) Back-end Python",
+   "company": "IPM Sistemas",
+   "url": "https://www.linkedin.com/jobs/view/4467817652",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4450669993": {
+   "title": "Engenheiro(a) de Software Backend (Python) Sênior – Risco Operacional",
+   "company": "BTG Pactual",
+   "url": "https://www.linkedin.com/jobs/view/4450669993",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4464689809": {
+   "title": "Python FastAPI React Developer - Remote work",
+   "company": "BairesDev",
+   "url": "https://www.linkedin.com/jobs/view/4464689809",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4447817256": {
+   "title": "Senior Software Engineer - Full Stack",
+   "company": "Serasa Experian",
+   "url": "https://www.linkedin.com/jobs/view/4447817256",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "skipped",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4464905504": {
+   "title": "Engenheiro de Software (.NET) - Remote Work",
+   "company": "BairesDev",
+   "url": "https://www.linkedin.com/jobs/view/4464905504",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4432490754": {
+   "title": "Senior Software Engineer - Enterprise Engineering",
+   "company": "QuintoAndar",
+   "url": "https://www.linkedin.com/jobs/view/4432490754",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4464695717": {
+   "title": "Engenheiro de Software (.NET) - Remote Work",
+   "company": "BairesDev",
+   "url": "https://www.linkedin.com/jobs/view/4464695717",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4462565194": {
+   "title": "Software Developer Senior - .NET (Remoto)",
+   "company": "Localiza&Co",
+   "url": "https://www.linkedin.com/jobs/view/4462565194",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4458937753": {
+   "title": "Senior Software Engineer (Java, AWS)",
+   "company": "Exadel",
+   "url": "https://www.linkedin.com/jobs/view/4458937753",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4432469586": {
+   "title": "Software Engineer, Enterprise Apps",
+   "company": "Coinbase",
+   "url": "https://www.linkedin.com/jobs/view/4432469586",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4336243481": {
+   "title": "Senior Software Engineer – Cloud Applications",
+   "company": "Jitterbit",
+   "url": "https://www.linkedin.com/jobs/view/4336243481",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4319506512": {
+   "title": "Senior Software Engineer – Cloud Applications",
+   "company": "Jitterbit",
+   "url": "https://www.linkedin.com/jobs/view/4319506512",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4458936767": {
+   "title": "Middle Software Engineer (Java)",
+   "company": "Exadel",
+   "url": "https://www.linkedin.com/jobs/view/4458936767",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4467774937": {
+   "title": "Analista de Sistemas Jr",
+   "company": "Vox",
+   "url": "https://www.linkedin.com/jobs/view/4467774937",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4466637527": {
+   "title": "Analista de Sistemas Hospitalares",
+   "company": "Jobbol",
+   "url": "https://www.linkedin.com/jobs/view/4466637527",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4467950318": {
+   "title": "Analista de Sistemas",
+   "company": "iK",
+   "url": "https://www.linkedin.com/jobs/view/4467950318",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4466988866": {
+   "title": "Analista de Sistemas - MG",
+   "company": "Mediphacos",
+   "url": "https://www.linkedin.com/jobs/view/4466988866",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4466380304": {
+   "title": "Analista de Sistemas Júnior",
+   "company": "Jobbol",
+   "url": "https://www.linkedin.com/jobs/view/4466380304",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4466293618": {
+   "title": "Analista de Sistemas PL (Protheus)",
+   "company": "Kapazi",
+   "url": "https://www.linkedin.com/jobs/view/4466293618",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4468281875": {
+   "title": "Analista de Sistemas TOTVS (Protheus)",
+   "company": "Mad Mais",
+   "url": "https://www.linkedin.com/jobs/view/4468281875",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "new",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4465902631": {
+   "title": "Analista de Sistemas - Júnior",
+   "company": "Crefaz",
+   "url": "https://www.linkedin.com/jobs/view/4465902631",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4469199694": {
+   "title": "Analista de Negócios Pleno",
+   "company": "MV",
+   "url": "https://www.linkedin.com/jobs/view/4469199694",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "linkedin-search"
+  },
+  "https://www.linkedin.com/jobs/view/4469206481": {
+   "title": "Analista de Negócios Pleno",
+   "company": "MV",
+   "url": "https://www.linkedin.com/jobs/view/4469206481",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "linkedin-search"
+  },
+  "https://agileengine.zohorecruit.com/jobs/Careers/248544000261719622": {
+   "title": "Backend Developer ID89121",
+   "company": "AgileEngine",
+   "url": "https://agileengine.zohorecruit.com/jobs/Careers/248544000261719622",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463042827__7076": {
+   "title": "Backend Developer (Remote)",
+   "company": "Jobs Ai",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463042827__7076",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://jobs.lever.co/jobgether/29e9ab98-e49d-4c51-9930-65269a0e53f7": {
+   "title": "Backend Developer (Java/Spring Boot)",
+   "company": "jobgether",
+   "url": "https://jobs.lever.co/jobgether/29e9ab98-e49d-4c51-9930-65269a0e53f7",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://jobs.ashbyhq.com/anyone-ai/7056802e-5f35-43b1-86a1-cd51955e7abf": {
+   "title": "Backend Developer (Brazil)",
+   "company": "anyone-ai",
+   "url": "https://jobs.ashbyhq.com/anyone-ai/7056802e-5f35-43b1-86a1-cd51955e7abf",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://www.mycareersfuture.gov.sg/job/662e8456519cdc899c2f10b6dbba98e5": {
+   "title": "Backend Developer (GenAI)",
+   "company": "User Experience Researchers Pte Ltd",
+   "url": "https://www.mycareersfuture.gov.sg/job/662e8456519cdc899c2f10b6dbba98e5",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463353165__7076": {
+   "title": "Backend Developer",
+   "company": "Clinica",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463353165__7076",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463294998__7076": {
+   "title": ".NET Backend Developer - Senior (Híbrido)",
+   "company": "Valorei",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463294998__7076",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463041338__7076": {
+   "title": "Senior Backend Developer (13324)",
+   "company": "Visa Hunt",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463041338__7076",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463044448__7076": {
+   "title": "Sr Backend Developer",
+   "company": "4DF Connect",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463044448__7076",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__462965382__7076": {
+   "title": ".Net Backend Developer",
+   "company": "Clinica",
+   "url": "https://br.whatjobs.com/pub_api__cpl__462965382__7076",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://mb.inhire.app/vagas/a36b762a-36c4-4cff-a412-98d430a6f96f/java-backend-developer-specialist": {
+   "title": "Java Backend Developer Specialist",
+   "company": "Mercado Bitcoin",
+   "url": "https://mb.inhire.app/vagas/a36b762a-36c4-4cff-a412-98d430a6f96f/java-backend-developer-specialist",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://www.monks.com/careers/5800063004/job?gh_jid=5800063004": {
+   "title": "Senior Backend Developer",
+   "company": "Monks",
+   "url": "https://www.monks.com/careers/5800063004/job?gh_jid=5800063004",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463352996__7076": {
+   "title": "Senior Backend Integration Developer (.NET)",
+   "company": "Decision Group",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463352996__7076",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://apply.workable.com/j/0B3743AC25": {
+   "title": "Senior Fullstack Developer (Backend focus)",
+   "company": "zipdev",
+   "url": "https://apply.workable.com/j/0B3743AC25",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__462968773__7076": {
+   "title": "Mid Level Developer Backend (Python + FastAPI)",
+   "company": "CI&T",
+   "url": "https://br.whatjobs.com/pub_api__cpl__462968773__7076",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__462747936__7076": {
+   "title": "Senior Backend Integration Developer (.NET)",
+   "company": "4Solution Group",
+   "url": "https://br.whatjobs.com/pub_api__cpl__462747936__7076",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://job-boards.greenhouse.io/abinbev/jobs/8734537002": {
+   "title": "Intermediate Backend Java Developer",
+   "company": "AB InBev / BEES",
+   "url": "https://job-boards.greenhouse.io/abinbev/jobs/8734537002",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://job-boards.greenhouse.io/bees/jobs/8734539002": {
+   "title": "Intermediate Backend Java Developer",
+   "company": "AB InBev / BEES",
+   "url": "https://job-boards.greenhouse.io/bees/jobs/8734539002",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://jobs.lever.co/jobgether/0094664a-18d9-4df4-ac20-998fb0486c06": {
+   "title": "Tech Lead/Sr Backend (Go) Developer",
+   "company": "jobgether",
+   "url": "https://jobs.lever.co/jobgether/0094664a-18d9-4df4-ac20-998fb0486c06",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__462964654__7076": {
+   "title": "Python Developer",
+   "company": "Valorei",
+   "url": "https://br.whatjobs.com/pub_api__cpl__462964654__7076",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__462907103__7076": {
+   "title": "Python Developer Senior — Data Science & Engineering (Remoto)",
+   "company": "Cial Dun & Bradstreet",
+   "url": "https://br.whatjobs.com/pub_api__cpl__462907103__7076",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__462913519__7076": {
+   "title": "Software Developer Analyst III | Python",
+   "company": "Inter",
+   "url": "https://br.whatjobs.com/pub_api__cpl__462913519__7076",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://jobs.ashbyhq.com/anyone-ai/53695cb1-9bd2-458f-8429-6ec7207a3a1b": {
+   "title": "Python Developer - Remote in Brazil",
+   "company": "anyone-ai",
+   "url": "https://jobs.ashbyhq.com/anyone-ai/53695cb1-9bd2-458f-8429-6ec7207a3a1b",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__462912462__7076": {
+   "title": "Python Game Developer (Panda3D)",
+   "company": "Gramian Consulting Group",
+   "url": "https://br.whatjobs.com/pub_api__cpl__462912462__7076",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463359311__7076": {
+   "title": "Fullstack Developer (Python)",
+   "company": "SGF Global",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463359311__7076",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463324697__7076": {
+   "title": "Fullstack Developer (Python)",
+   "company": "SGF Global",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463324697__7076",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__462964330__7076": {
+   "title": "Software Developer - Python/LLM",
+   "company": "IBM",
+   "url": "https://br.whatjobs.com/pub_api__cpl__462964330__7076",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__462966392__7076": {
+   "title": "Developer Python/LLM",
+   "company": "IBM",
+   "url": "https://br.whatjobs.com/pub_api__cpl__462966392__7076",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463041235__7076": {
+   "title": "Freelance Python Developer (Remote, South/Latin America)",
+   "company": "Visa Hunt",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463041235__7076",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__462841358__7076": {
+   "title": "Developer Python/LLM",
+   "company": "IBM",
+   "url": "https://br.whatjobs.com/pub_api__cpl__462841358__7076",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__462635822__7076": {
+   "title": "Software Developer - Python/LLM",
+   "company": "IBM",
+   "url": "https://br.whatjobs.com/pub_api__cpl__462635822__7076",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__462964425__7076": {
+   "title": "Full Stack Developer (Python + React)",
+   "company": "Sigma Software",
+   "url": "https://br.whatjobs.com/pub_api__cpl__462964425__7076",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__462968820__7076": {
+   "title": "Senior Python & AI Developer",
+   "company": "Jobtailor",
+   "url": "https://br.whatjobs.com/pub_api__cpl__462968820__7076",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://jobs.smartrecruiters.com/SigmaSoftware2/744000148721524-full-stack-developer-python-react-": {
+   "title": "Full Stack Developer (Python + React)",
+   "company": "Sigma Software",
+   "url": "https://jobs.smartrecruiters.com/SigmaSoftware2/744000148721524-full-stack-developer-python-react-",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://job-boards.greenhouse.io/capco/jobs/8165069": {
+   "title": "Senior Full-Stack Developer (Python) - COM INGLÊS - Remoto",
+   "company": "Capco",
+   "url": "https://job-boards.greenhouse.io/capco/jobs/8165069",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__462963985__7076": {
+   "title": "Senior Developer, Fullstack - Python",
+   "company": "Appnovation",
+   "url": "https://br.whatjobs.com/pub_api__cpl__462963985__7076",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://jobs.halliburton.com/job/Rio-de-Janeiro-Brazil-Remote-Back-end-Developer-%28Python%29-RJ-291941/1401269800/": {
+   "title": "Brazil - Remote: Back-end Developer (Python)",
+   "company": "Halliburton",
+   "url": "https://jobs.halliburton.com/job/Rio-de-Janeiro-Brazil-Remote-Back-end-Developer-%28Python%29-RJ-291941/1401269800/",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463351686__7076": {
+   "title": "Software Engineer Backend | IT Offshore Platform US",
+   "company": "BTG Pactual (via TTG Forestry Services)",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463351686__7076",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463353867__7076": {
+   "title": "Software Engineer II - Backend - Payments",
+   "company": "Electric Capital",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463353867__7076",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTI1NDE0MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=": {
+   "title": "Software Engineer Backend (Java)",
+   "company": "SoftDesign",
+   "url": "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTI1NDE0MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://jobs.ashbyhq.com/kraken.com/9b9eb551-ad86-4710-b55c-2ad004f514c9": {
+   "title": "Software Engineer II Backend Payments",
+   "company": "Payward (Kraken)",
+   "url": "https://jobs.ashbyhq.com/kraken.com/9b9eb551-ad86-4710-b55c-2ad004f514c9",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://www.playlist.com/careers/opportunities/4713990006?gh_jid=4713990006": {
+   "title": "Software Engineer III | FullStack",
+   "company": "Mindbody",
+   "url": "https://www.playlist.com/careers/opportunities/4713990006?gh_jid=4713990006",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463125775__7076": {
+   "title": "Software Engineer Backend | IT Offshore Platform US",
+   "company": "BTG Pactual (via Magnetis)",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463125775__7076",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://carreiras.btgpactual.com/vagas?gh_jid=5984656004": {
+   "title": "Software Engineer Backend - IT Commodities",
+   "company": "BTG Pactual",
+   "url": "https://carreiras.btgpactual.com/vagas?gh_jid=5984656004",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://carreiras.btgpactual.com/vagas?gh_jid=6192350004": {
+   "title": "Software Engineer Backend | IT Offshore Platform US",
+   "company": "BTG Pactual",
+   "url": "https://carreiras.btgpactual.com/vagas?gh_jid=6192350004",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://job-boards.greenhouse.io/doordashinternational/jobs/7641133": {
+   "title": "Software Engineer, Backend (All teams) — vaga exclusiva PCD",
+   "company": "DoorDash Brazil",
+   "url": "https://job-boards.greenhouse.io/doordashinternational/jobs/7641133",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://job-boards.greenhouse.io/doordashinternational/jobs/7641129": {
+   "title": "Software Engineer, Backend (All teams) — vaga para mulheres",
+   "company": "DoorDash Brazil",
+   "url": "https://job-boards.greenhouse.io/doordashinternational/jobs/7641129",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTI0Nzg3NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=": {
+   "title": "Software Engineer FullStack (.NET Core/React)",
+   "company": "SoftDesign",
+   "url": "https://softdesign.gupy.io/job/eyJqb2JJZCI6MTI0Nzg3NzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__462913736__7076": {
+   "title": "Software Engineer Sênior - Backend",
+   "company": "iFood",
+   "url": "https://br.whatjobs.com/pub_api__cpl__462913736__7076",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://softvaro.inhire.app/vagas/4268b6f9-3317-4e8f-a1d0-739d66969636/software-engineer-senior-fullstack-java-react-softvaro-pj-remoto": {
+   "title": "Software Engineer Sênior Fullstack (Java/React) - PJ - Remoto",
+   "company": "Softvaro",
+   "url": "https://softvaro.inhire.app/vagas/4268b6f9-3317-4e8f-a1d0-739d66969636/software-engineer-senior-fullstack-java-react-softvaro-pj-remoto",
+   "first_seen": "2026-09-21",
+   "fit": "medium",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://grupomed4u.vagas.solides.com.br/vaga/919519": {
+   "title": "Software Engineer/Dev Fullstack",
+   "company": "MED4U",
+   "url": "https://grupomed4u.vagas.solides.com.br/vaga/919519",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463352157__7076": {
+   "title": "Senior Software Engineer - Rust - Backend",
+   "company": "Kraken",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463352157__7076",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463353852__7076": {
+   "title": "Senior Software Engineer Backend | Java | Integrações Hospitalares",
+   "company": "Dasa",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463353852__7076",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463294260__7076": {
+   "title": "Pleno Software Engineer (Backend)",
+   "company": "Docket Brasil",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463294260__7076",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "new",
+   "portal": "freehire-search"
+  },
+  "https://br.whatjobs.com/pub_api__cpl__463354032__7076": {
+   "title": "Pleno Software Engineer (Backend)",
+   "company": "Docket Brasil",
+   "url": "https://br.whatjobs.com/pub_api__cpl__463354032__7076",
+   "first_seen": "2026-09-21",
+   "fit": "high",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://jobs.ashbyhq.com/kraken.com/c0d90cde-96ab-455a-b613-16b2f395e683": {
+   "title": "Senior Software Engineer Rust Backend",
+   "company": "Payward (Kraken)",
+   "url": "https://jobs.ashbyhq.com/kraken.com/c0d90cde-96ab-455a-b613-16b2f395e683",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "freehire-search"
+  },
+  "https://agileengine.zohorecruit.com/jobs/Careers/248544000261820691": {
+   "title": "Backend Software Engineer ID89529",
+   "company": "AgileEngine",
+   "url": "https://agileengine.zohorecruit.com/jobs/Careers/248544000261820691",
+   "first_seen": "2026-09-21",
+   "fit": "low",
+   "status": "skipped",
+   "portal": "freehire-search"
   }
  }
 }
